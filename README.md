@@ -1,19 +1,20 @@
 # Travel Destination Form
 
-Create a travel from as shown in the mockup below:
+Erinnert euch an Formulare 😃 und baut das Mockup nach:
 
 ![Simple form example](simple-form-example.jpg)
 
-#### Specifications
+#### Anleitung
 
-> - 2 fields: from and to
-> - on click on the labels, the corresponding field gets focus
-> - one button submits the form
-> - the other button does not submit the form and it clears it
-> - both buttons have hover effects (color, background changes, > cursor)
-> - the form cannot be submitted if there is no text entered in the fields
+> - 2 Felder: von und bis
+> - bei Klick auf die Beschriftungen wird das entsprechende Feld fokussiert
+> - ein "button" schickt das Formular ab
+> - der andere "button" schickt das Formular nicht ab, sondern löscht es
+> - beide "buttons" haben Hover-Effekte (Farbe, Hintergrundwechsel, > Cursor)
+> - das Formular kann nicht abgeschickt werden, wenn kein Text in die Felder eingegeben wurde
 
 #### Extra
 
-- make it responsive, items stack on top of each other
-- improve text readability
+- macht es responsive:
+    - Elemente übereinander stapeln
+    - Lesbarkeit des Textes verbessern
