@@ -15,6 +15,6 @@ Erinnert euch an Formulare 😃 und baut das Mockup nach:
 
 #### Extra
 
-- macht es responsive:
+- macht es "responsive":
     - Elemente übereinander stapeln
     - Lesbarkeit des Textes verbessern
