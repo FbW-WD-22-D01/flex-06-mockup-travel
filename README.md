@@ -6,7 +6,7 @@ Erinnert euch an Formulare 😃 und baut das Mockup nach:
 
 #### Anleitung
 
-> - 2 Felder: von und bis
+> - 2 Felder: from und to
 > - bei Klick auf die Beschriftungen wird das entsprechende Feld fokussiert
 > - ein "button" schickt das Formular ab
 > - der andere "button" schickt das Formular nicht ab, sondern löscht es
